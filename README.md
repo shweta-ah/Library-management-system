@@ -9,7 +9,9 @@ Demo Link :- https://drive.google.com/file/d/1AB5daZYVHNpO7erBbHDsTGpmefKaVLTm/v
 
 Live Link :- https://library-management-system-eight-beta.vercel.app/auth/login
 
-**Note:** I'm still working on getting this deployed online, so for now you'll need to run it locally to test it out.
+Admin Details:
+Email: shweta@gmail.com
+password: Shweta@h1003
 
 ## Getting Started
 
